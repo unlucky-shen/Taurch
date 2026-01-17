@@ -1,4 +1,4 @@
-# Taurch
+# Arch
 
 Setup auto-cpufreq
 ```bash
